@@ -6079,26 +6079,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\StrahinjaGamer\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\strahinja.milicevic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StrahinjaGamer\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\Users\\StrahinjaGamer\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
-      "packagesPath": "C:\\Users\\StrahinjaGamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StrahinjaGamer\\source\\repos\\PlatformService\\PlatformService\\obj\\",
+      "projectPath": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj",
+      "packagesPath": "C:\\Users\\strahinja.milicevic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\StrahinjaGamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\strahinja.milicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\strahinja.milicevic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strahinja.milicevic\\Source\\Repos\\platformservice\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\strahinja.milicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",

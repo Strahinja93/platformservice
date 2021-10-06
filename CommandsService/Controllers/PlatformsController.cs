@@ -1,19 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CommandsService.Controllers
+namespace commandsservice.Controllers
 {
-    [Route("api/c/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class PlatformsController : ControllerBase
     {
+
         public PlatformsController()
         {
-
+                
         }
+
 
         [HttpPost]
         public ActionResult TestInboundConnection()

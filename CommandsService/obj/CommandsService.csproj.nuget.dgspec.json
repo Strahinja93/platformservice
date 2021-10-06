@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\commandsservice\\commandsservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\commandsservice\\commandsservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\CommandsService\\CommandsService.csproj",
-        "projectName": "CommandsService",
-        "projectPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\commandsservice\\commandsservice.csproj",
+        "projectName": "commandsservice",
+        "projectPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\commandsservice\\commandsservice.csproj",
         "packagesPath": "C:\\Users\\strahinja.milicevic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\CommandsService\\obj\\",
+        "outputPath": "C:\\Users\\strahinja.milicevic\\source\\repos\\platformservice\\commandsservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\strahinja.milicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,23 +40,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[8.1.1, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[5.0.10, )"
+              "version": "[1.11.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
